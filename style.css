@@ -1,0 +1,16 @@
+
+
+.img-1 {
+    background-image: url(./images/3.jpeg);
+    background-position: center;
+    background-size: cover;
+    min-height: 400px;
+    border-radius: 3px;
+}
+
+.img-row{
+    background-color: azure;
+    
+    
+    border-radius: 3px;
+}
